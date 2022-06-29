@@ -1,1 +1,5 @@
-# Week4
+## KNN
+## Decision Tree
+## Random Forest
+## SVM
+## XGBoost
